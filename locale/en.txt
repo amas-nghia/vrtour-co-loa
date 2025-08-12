@@ -13,14 +13,14 @@ audiores_8D6A4BE0_9B90_D20C_41DB_C6B87399DCC3.mp3Url = media/audio_8E16EBE7_9B91
 ### Audio Subtitles
 
 ### Title
-panorama_97D63595_9B90_5634_41D8_E2D8907DC7D0.label = Cổng chính - 1
-panorama_97D643B6_9B90_D274_41E1_4C1E1DB00698.label = Cổng chính - 2
+panorama_97D63595_9B90_5634_41D8_E2D8907DC7D0.label = Cổng chính
+panorama_97D643B6_9B90_D274_41E1_4C1E1DB00698.label = Cổng chính
 panorama_97D4B981_9B90_5E0C_41C7_289E6AF5AE6A.label = Giếng Ngọc
 panorama_97D5B175_9B90_4EF5_41E1_3D350D22A317.label = Toàn cảnh
 panorama_9626FD6A_9B91_D61C_41D6_1721B2D11339.label = Toàn cảnh
 panorama_97D5056C_9B90_F61B_41E2_A0A86D4D4BBC.label = Đình Ngự Triều Di Quy
-panorama_97D681DE_9B90_CE37_41D9_40AE72903570.label = Đền thờ An Dương Vương - 1
-panorama_97D5EF8E_9B90_5217_41DB_240BCF842C36.label = Đền thờ An Dương Vương - 2
+panorama_97D5EF8E_9B90_5217_41DB_240BCF842C36.label = Đền thờ An Dương Vương
+panorama_97D681DE_9B90_CE37_41D9_40AE72903570.label = Đền thờ An Dương Vương
 
 ## Skin
 
@@ -124,12 +124,12 @@ tour.name = Di tích Cổ Loa
 ## VR Menu
 
 ### Text
-MenuItem_BBDA8B35_9B90_7275_41C7_EA13F133530F.label = Cổng chính - 1
-MenuItem_BBDB4B34_9B90_720B_41E0_7DCB5ECFAC2F.label = Cổng chính - 2
+MenuItem_BBDB4B34_9B90_720B_41E0_7DCB5ECFAC2F.label = Cổng chính
+MenuItem_BBDA8B35_9B90_7275_41C7_EA13F133530F.label = Cổng chính
 MenuItem_BBDABB35_9B90_7275_41E0_4B22CA6A4522.label = Giếng Ngọc
 Menu_88204998_9BF0_DE3B_41CF_51F75E44FDEE.label = Media
 MenuItem_BBDACB35_9B90_7275_41C8_BB452105B264.label = Toàn cảnh
 MenuItem_BBDAAB35_9B90_7275_41D6_3E9DA2846FBD.label = Toàn cảnh
 MenuItem_BBDB6B34_9B90_720B_41C3_85A22E6AB3B2.label = Đình Ngự Triều Di Quy
-MenuItem_BBDB5B34_9B90_720B_41D2_5C49ED8A8A6C.label = Đền thờ An Dương Vương - 1
-MenuItem_BBDADB35_9B90_7275_41E0_E6C9040507B9.label = Đền thờ An Dương Vương - 2
+MenuItem_BBDADB35_9B90_7275_41E0_E6C9040507B9.label = Đền thờ An Dương Vương
+MenuItem_BBDB5B34_9B90_720B_41D2_5C49ED8A8A6C.label = Đền thờ An Dương Vương
