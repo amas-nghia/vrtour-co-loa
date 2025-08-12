@@ -3,7 +3,6 @@
 ## Action
 
 ### URL
-WebFrame_4AA4226B_5EE9_BBD2_41D7_93443020E72E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.0088313553215!2d105.8689091759712!3d21.11221408490553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313500b2ffacb0a3%3A0x952a436b3aab36de!2sCo%20Loa%20Citadel%20archaeological%20site!5e0!3m2!1sen!2s!4v1754960350106!5m2!1sen!2s
 
 ## Media
@@ -14,215 +13,123 @@ audiores_8D6A4BE0_9B90_D20C_41DB_C6B87399DCC3.mp3Url = media/audio_8E16EBE7_9B91
 ### Audio Subtitles
 
 ### Title
-panorama_9626FD6A_9B91_D61C_41D6_1721B2D11339.label = 1
-panorama_97D4B981_9B90_5E0C_41C7_289E6AF5AE6A.label = 2
-panorama_97D63595_9B90_5634_41D8_E2D8907DC7D0.label = 3
-panorama_97D643B6_9B90_D274_41E1_4C1E1DB00698.label = 4
-panorama_97D5056C_9B90_F61B_41E2_A0A86D4D4BBC.label = 5
-panorama_97D681DE_9B90_CE37_41D9_40AE72903570.label = 6
-panorama_97D5EF8E_9B90_5217_41DB_240BCF842C36.label = 7
-panorama_97D5B175_9B90_4EF5_41E1_3D350D22A317.label = 8
+panorama_97D63595_9B90_5634_41D8_E2D8907DC7D0.label = Cổng chính - 1
+panorama_97D643B6_9B90_D274_41E1_4C1E1DB00698.label = Cổng chính - 2
+panorama_97D4B981_9B90_5E0C_41C7_289E6AF5AE6A.label = Giếng Ngọc
+panorama_97D5B175_9B90_4EF5_41E1_3D350D22A317.label = Toàn cảnh
+panorama_9626FD6A_9B91_D61C_41D6_1721B2D11339.label = Toàn cảnh
+panorama_97D5056C_9B90_F61B_41E2_A0A86D4D4BBC.label = Đình Ngự Triều Di Quy
+panorama_97D681DE_9B90_CE37_41D9_40AE72903570.label = Đền thờ An Dương Vương - 1
+panorama_97D5EF8E_9B90_5217_41DB_240BCF842C36.label = Đền thờ An Dương Vương - 2
 
 ## Skin
 
 ### Button
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = AMENITIES >
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = AMENITIES >
-Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = BACK
 Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
 Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = BACK
-Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = BACK
 Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
-Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
-Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
-Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
-Button_175A5214_31FA_0014_4198_930DF49BADD9.label = BACK
-Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = BACK
-Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = BACK
-Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
-Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = Bar
 Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Bar
-Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = Chill Out
 Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Chill Out
 Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = Cổng chính
 Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = Di tích Giếng Ngọc
 Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = Di tích Ngự Triều Di Quy
 Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
-Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
 Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
-Button_4C0CCCF8_5EE8_88BE_41D7_AE304B421CBB.label = LOREM IPSUM
-Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = Lobby
 Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Lobby
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Lorem Ipsum
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Lorem Ipsum
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
 Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
 Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
 Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
 Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Lorem Ipsum
-Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
-Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Lorem Ipsum
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Lorem Ipsum
 Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = Lorem Ipsum
 Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Lorem Ipsum
 Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Lorem Ipsum
-Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Lorem Ipsum
-Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Lorem Ipsum
-Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
-Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
-Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Lorem Ipsum
 Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Lorem Ipsum
-Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
 Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = Lorem Ipsum
 Button_17598215_31FA_0014_41AC_1166AB319171.label = Lorem Ipsum
 Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.pressedLabel = Lorem Ipsum
-Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Lorem Ipsum
-Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Lorem Ipsum
-Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
-Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
-Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
-Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
-Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Lorem Ipsum
-Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
-Button_168DB310_3106_01EC_41B2_3511AA5E40E1_mobile.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
 Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Lorem Ipsum
 Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = Lorem Ipsum
 Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.pressedLabel = Lorem Ipsum
-Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Lorem Ipsum
-Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Lorem Ipsum
-Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Lorem Ipsum
-Button_168DA310_3106_01EC_41BE_DF88732C2A28_mobile.label = Lorem Ipsum
-Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
 Button_17EB62B7_3106_0014_41C5_43B38271B353.label = Lorem Ipsum
 Button_17EB72B7_3106_0014_41B9_61857077BF4A.label = Lorem Ipsum
-Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
-Button_168D9311_3106_01EC_41A8_3BD8769525D6_mobile.label = Lorem Ipsum
-Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
-Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
-Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
-Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
 Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Lorem Ipsum
-Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
-Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
-Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Lorem Ipsum
-Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
-Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
-Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
-Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
-Button_168DD310_3106_01EC_4190_7815FA70349E_mobile.label = Lorem Ipsum
-Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
-Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
-Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
-Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3_mobile.label = Lorem Ipsum
-Button_17566D7D_31FA_0015_41AD_98D7C60C694F_mobile.label = Lorem Ipsum
-Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = Lorem Ipsum
-Button_17EB92B7_3106_0014_41B2_34A3E3F63779_mobile.label = Lorem Ipsum
-Button_17EB72B7_3106_0014_41B9_61857077BF4A_mobile.label = Lorem Ipsum
-Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA_mobile.label = Lorem Ipsum
-Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.label = Lorem Ipsum
-Button_17EB62B7_3106_0014_41C5_43B38271B353_mobile.label = Lorem Ipsum
-Button_17EB52B7_3106_0014_419C_439E593AEC43_mobile.label = Lorem Ipsum
-Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A_mobile.label = Lorem Ipsum
-Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = Lorem Ipsum
-Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.pressedLabel = Lorem Ipsum
-Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.pressedLabel = Lorem Ipsum
-Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Lorem Ipsum
-Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
-Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = Lorem Ipsum
-Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Lorem Ipsum
-Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Lorem Ipsum
-Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.pressedLabel = Lorem Ipsum
-Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.label = Lorem Ipsum
-Button_159EDDDC_31FA_0014_419A_61C18E43FE01_mobile.label = Lorem Ipsum
-Button_159ECDDC_31FA_0014_41B9_2D5AB1021813_mobile.label = Lorem Ipsum
-Button_17562D7D_31FA_0015_41A3_96B282B30DBA_mobile.label = Lorem Ipsum
-Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB_mobile.label = Lorem Ipsum
-Button_159E9DDC_31FA_0015_41B6_CB1D433C7673_mobile.label = Lorem Ipsum
-Button_159E8DDD_31FA_0014_41C5_F18F441AF371_mobile.label = Lorem Ipsum
-Button_159EBDDD_31FA_0014_41C8_935504B30727_mobile.label = Lorem Ipsum
-Button_17EB32B7_3106_0014_41C8_467BF6AECBE8_mobile.label = Lorem Ipsum
-Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.label = Lorem Ipsum
-Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.label = Lorem Ipsum
-Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = Lorem Ipsum
-Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = Lorem Ipsum
-Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.pressedLabel = Lorem Ipsum
-Button_17EB02B7_3106_0014_41AF_05D9AC36B189_mobile.label = Lorem Ipsum
-Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.pressedLabel = Lorem Ipsum
-Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2_mobile.label = Lorem Ipsum
-Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.label = Lorem Ipsum
-Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7_mobile.label = Lorem Ipsum
-Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC_mobile.label = Lorem Ipsum
-Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.label = Lorem Ipsum
-Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = Lorem Ipsum
-Button_17598215_31FA_0014_41AC_1166AB319171_mobile.label = Lorem Ipsum
-Button_17596215_31FA_0014_41C6_A42670770708_mobile.label = Lorem Ipsum
-Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6_mobile.label = Lorem Ipsum
-Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.label = Lorem Ipsum
-Button_1758B215_31FA_0014_41BC_C4EAC2A9544B_mobile.label = Lorem Ipsum
-Button_17590215_31FA_0014_41C1_2B2D012DCC76_mobile.label = Lorem Ipsum
-Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0_mobile.label = Lorem ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
 Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Lorem ipsum
-Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
-Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.label = Lorem ipsum
-Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
-Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B_mobile.label = Lorem ipsum
 Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
 Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
-Button_168DE310_3106_01EC_4192_6A9F468A0ADE_mobile.label = Lorem ipsum
-Button_17EB42B7_3106_0014_41B0_CE70CBDDF438_mobile.label = Lorem ipsum
-Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Main Entrance
 Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Main Entrance
-Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = Meeting Area 1
 Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Meeting Area 1
-Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = Meeting Area 2
 Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = Meeting Area 2
-Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = RECEPTION >
-Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = RESTAURANTS >
-Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = ROOMS >
-Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = Reception
-Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = Reception
-Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Reception
 Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Reception
-Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = SPORTS AREA >
-Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SWIMMING POOL >
-Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.label = Terrace
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Reception
 Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = Terrace
 Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Toàn cảnh
 Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = Đền thờ An Dương Vương
 
 ### Image
-Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_en.jpg
 Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
-Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F.url = skin/Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F_en.jpg
-Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D.url = skin/Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D_en.jpg
-Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3.url = skin/Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3_en.jpg
 
 ### Label
-Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
-Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = DOLOR SIT AMET, CONSECTETUR
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = LOREM IPSUM
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = {{title}}
 
 ### Multiline Text
-HTMLText_4AE4BCDD_5EE8_88F7_41A5_FD2F970F1FDC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:4.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
 HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.06vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.579999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:4.58vmin;font-family:'Open Sans';"><B><I>Thành Cổ Loa</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Open Sans';"><B>Di tích lịch sử</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Thành Cổ Loa gắn liền với những truyền thuyết kỳ thú của dân tộc Việt, về việc vua An Dương Vương định đô, xây thành; Về chiếc nỏ thần Kim Quy bắn một phát hạ hàng trăm tên giặc; Về mối tình bi thương và cảm động của Mỵ Châu – Trọng Thuỷ… Từ bao đời nay, ngôi thành cổ này cùng với những nhân vật lịch sử được huyền thoại hoá đã đi vào tiềm thức của người dân Việt Nam.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Đây là toà thành cổ vào bậc nhất Việt Nam được vua Thục An Dương Vương xây từ thế kỷ thứ 3 trước Công nguyên để làm kinh đô nước Âu Lạc (tên nước Việt Nam thời đó), nay thuộc huyện Ðông Anh, ngoại thành Hà Nội.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Thành được xây dựng kiểu vòng ốc (nên gọi là Loa thành) tương truyền có tới 9 vòng, dưới thành ngoài là hào sâu ngập nước thuyền bè đi lại được. Ngày nay ở cổ Loa còn lại 3 vòng thành đất: Thành Ngoài (8km), Thành Giữa (hình đa giác, chu vi 6,5km) và Thành Trong (hình chữ nhật, chu vi 1,6km). Thân thành ngày nay còn có chiều cao trung bình từ 4-5m, có chỗ còn cao tới 12m, chân thành rộng tới 20-30m. Các cửa của 3 vòng thành cũng đoợc bố trí rất khéo; không hề nằm cùng trên một trục thẳng mà lệch chéo đi rất nhiều. Do đó đường nối hai cửa thành ở cùng một hướng đều là một đường quanh co, lại có ụ phòng ngự ở hai bên nên gây rất nhiều trở ngại cho quân địch khi tiến đánh thành.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Qua các giai đoạn lịch sử, Cổ Loa có rất nhiều tên: Loa thành (thành ốc), thành Côn Lôn, thành Tư Long, Cửu thành, Thành Việt Vương, thành Khả Lũ, Cổ Loa thành. Đến thế kỷ thứ X, thời kỳ Ngô Quyền làm vua, Cổ Loa lại trở thành kinh đô lần thứ hai.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Từ trung tâm thành phố, đi 18 km đến xã Cổ Loa thuộc huyện Ðông Anh, bạn sẽ tìm thấy vết tích còn lại của ba vòng thành xưa bằng đất và nơi các nhà khảo cổ tìm được hàng vạn mũi tên đồng, lưỡi cày, rìu sắt, xương thú vật…</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Qua cổng làng, cũng là cổng Thành trong là tới đình làng Cổ Loa. Theo truyền thuyết thì đó là nền cũ của điện ngự triều, nơi bá quan triều hội ngày xưa nên trong đình còn tấm hoành phi “Ngự triều di quy”. Cạnh đình là Am Bà Chúa tức là miếu thờ công chúa Mỵ Châu, nằm nép dưới gốc đa già cổ thụ. Miếu am bé bỏng như cuộc đời ngắn ngủi của nàng công chúa đáng thương “trái tim lầm chỗ để lên đầu”. Trong am có một tảng đá hình người cụt đầu. Ai cũng bảo đó là tượng Mỵ Châu.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Qua am Mỵ Châu tới đền Thượng, tức đền An Dương Vương, tương truyền là dựng trên nền nội cung ngày trước. Ðền này mới làm lại hồi đầu thế kỷ XX, có đôi rồng đá ở bậc tam cấp cửa đền là di vật đời Trần hoặc Lê sơ. Trong đền có tượng An Dương Vương bằng đồng mới đúc cùng dịp làm lại đền. Trước đền là Giếng Ngọc, tương truyền là nơi Trọng Thuỷ tự tử vì hối hận. Nước giếng này mà đem rửa ngọc trai thì ngọc sáng bội phần!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Năm 1962, Cổ Loa được xếp hạng di tích lịch sử – văn hoá cấp nhà nước. Nó có đầy đủ các loại hình di tích: Đình, đền, chùa, am, miếu. Trong đó hàm chứa biết bao giá trị văn hoá Việt Nam qua bao thế hệ.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Trong khu vực Thành Nội còn lưu giữ nhiều di tích lịch sử – kiến trúc nghệ thuật: Khu đền Thượng thờ An Dương Vương, khu đình Ngự triều di quy, am thờ Mỵ Châu và chùa Bảo Sơn với hàng trăm pho tượng…</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Các nhà khảo cổ học còn trưng bày ở đây rất nhiều hiện vật quý giá của người Việt cổ đã khai quật được trong lòng đất Cổ Loa: Trống đồng Cổ Loa, tiền đồng, rìu đồng, hàng nghìn mũi tên đồng, lưỡi cày, các vật dụng bằng gốm, đất nung,…</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Hàng năm, lễ hội Cổ Loa tưởng nhớ vua An Dương Vương được tổ chức vào mùa xuân, ngày mồng 6 tháng giêng. Có 8 làng trong xã Cổ Loa tổ chức rước kiệu truyền thống tụ về sân đình Cổ Loa, dâng lễ, thể hiện tấm lòng thành kính đối với vị vua có công lao to lớn trong việc dựng nước và giữ nước, chỉ đứng sau các vua Hùng.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Hướng tới 1000 năm Thăng Long – Hà Nội (năm 2010), Cổ Loa đang từng bước được tu bổ, tôn tạo để xứng đáng với Thủ đô ngàn năm văn hiến, Thành phố Hà Nội đã lập dự án “Quy hoạch bảo tồn, tôn tạo và phát huy tác dụng di tích khu thành Cổ Loa”.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Khu di tích Cổ Loa theo quy hoạch mới sẽ gồm:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">khu di tích thành Cổ Loa, khu tưởng niệm An Dương Vương và các di tích lịch sử văn hoá khác, với tổng diện tích hơn 830 ha thuộc địa phận các xã Cổ Loa, Việt Hùng, Dục Tú, Uy Nỗ. Phía tây bắc giới hạn bởi đường quy hoạch nối khu đô thị 34 (dự kiến) đi khu công nghiệp Đông Anh, phía đông bắc được giới hạn bởi đường Cổ Loa – Yên Viên, phía nam và tây nam giới hạn bởi đường liên khu vực huyện Đông Anh.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Quy hoạch khu di tích Cổ Loa sẽ được thực hiện đến năm 2020 với các khu quy hoạch chính:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Khu vực di tích thành: Các vòng thành bao gồm luỹ và hào được bảo vệ chống sự xâm phạm, vòng thành nội sẽ được tôn tạo lại toàn bộ với chiều dài hơn 1.700m. Thành ngoại và thành trung sẽ tôn tạo lại một số đoạn đã xuống cấp để phục vụ việc khai thác di tích, các đoạn tôn tạo chủ yếu tập trung tại 8 cửa ra vào.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Khu trung tâm di tích Cổ Loa bao gồm: khu vực sân tiếp đón đặt tại phía nam của thành nội; khu vực trung tâm thành nội sẽ hình thành một không gian tập trung của toàn bộ khu di tích với quy mô 5 ha để có thể bố trí các công trình bảo tàng trưng bày các di chỉ khảo cổ, tổ chức các hoạt động lễ hội văn hoá làm sống lại các phong tục tập quán của người Việt…</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">Khu vực các di tích kiến trúc như: đình, chùa, mộ Mỵ Châu… được đầu tư để tôn tạo. Khu vực các di chỉ khảo cổ chính Đồng Vông, Bãi Mèn và Đường Mây sẽ được xây dựng thành các bảo tàng tàng… Khu vực sẽ phát triển mới để hỗ trợ khu di tích gồm: Công viên tại phía nam khu vực di tích với quy mô hơn 74ha; khu vực trồng hoa, cây cảnh tại khu vực bắc sông Hoàng và phục hồi một phần diện tích mặt nước tạo lại một phần diện mạo cảnh quan xưa…</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.54vmin;">BT – Theo Vietnamnet</SPAN></SPAN></DIV></div>
-HTMLText_4C0C3CF8_5EE8_88BE_41D5_8EEACF3D5601.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:4.31vmin;"> </SPAN><SPAN STYLE="font-size:3.19vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.19vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
-HTMLText_4AE4DCDD_5EE8_88F7_41D1_3A00BC21E997.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#04a3e1;font-size:10vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.559999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:5.56vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:'Arial, Helvetica, sans-serif';"/></p><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
 HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 6
+tour.name = Di tích Cổ Loa
 
 ## VR Menu
 
 ### Text
-MenuItem_BBDAAB35_9B90_7275_41D6_3E9DA2846FBD.label = 1
-MenuItem_BBDABB35_9B90_7275_41E0_4B22CA6A4522.label = 2
-MenuItem_BBDA8B35_9B90_7275_41C7_EA13F133530F.label = 3
-MenuItem_BBDB4B34_9B90_720B_41E0_7DCB5ECFAC2F.label = 4
-MenuItem_BBDB6B34_9B90_720B_41C3_85A22E6AB3B2.label = 5
-MenuItem_BBDB5B34_9B90_720B_41D2_5C49ED8A8A6C.label = 6
-MenuItem_BBDADB35_9B90_7275_41E0_E6C9040507B9.label = 7
-MenuItem_BBDACB35_9B90_7275_41C8_BB452105B264.label = 8
+MenuItem_BBDA8B35_9B90_7275_41C7_EA13F133530F.label = Cổng chính - 1
+MenuItem_BBDB4B34_9B90_720B_41E0_7DCB5ECFAC2F.label = Cổng chính - 2
+MenuItem_BBDABB35_9B90_7275_41E0_4B22CA6A4522.label = Giếng Ngọc
 Menu_88204998_9BF0_DE3B_41CF_51F75E44FDEE.label = Media
+MenuItem_BBDACB35_9B90_7275_41C8_BB452105B264.label = Toàn cảnh
+MenuItem_BBDAAB35_9B90_7275_41D6_3E9DA2846FBD.label = Toàn cảnh
+MenuItem_BBDB6B34_9B90_720B_41C3_85A22E6AB3B2.label = Đình Ngự Triều Di Quy
+MenuItem_BBDB5B34_9B90_720B_41D2_5C49ED8A8A6C.label = Đền thờ An Dương Vương - 1
+MenuItem_BBDADB35_9B90_7275_41E0_E6C9040507B9.label = Đền thờ An Dương Vương - 2
